@@ -1,0 +1,18 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+
+# Allow: / # разрешает индексацию всего сайта
+Disallow: / # запрет индексации всего сайта
+
+# Disallow: /game # запрет диррективы
+# Disallow: /game-privacy-policy
+# Disallow: /cookie-privacy-policy
+# Disallow: /download
+# Disallow: /download/*
+# Disallow: /api
+# Disallow: /api/*
+
+
+#Host: https://holdcrowd.fun
+
+#Sitemap: https://holdcrowd.fun/sitemap.xml

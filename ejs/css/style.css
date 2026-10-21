@@ -1,0 +1,73 @@
+/* #myCarousel {
+  padding: 65px 0px 0px 0px;
+}
+
+#mYCarouselHeight {
+  height: 500px;
+} */
+
+#mYPadding {
+  padding: 60px 0px 60px 0px;
+}
+
+/* row featurette */
+/* #forTest {
+  padding: 65px 0px 0px 0px;
+} */
+
+/* -------------------------- */
+/* .q1 {
+  background-color: antiquewhite;
+}
+
+.q2 {
+  background-color: gray;
+} */
+
+/* -------------------------- */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* a {
+  color: blue;
+} */
+
+/* a:hover {
+  color: red;
+} */
+
+.download a {
+  font-weight: 500;
+  color: rgb(25, 0, 255);
+}
+
+.download a:hover {
+  color: rgb(21, 139, 21);
+  font-weight: 700;
+  text-decoration: none;
+}
+/* navbar -------------------------- */
+/* .my-navbar {
+  background-color: #f5f5f3;
+} */
+
+.navbar-brand {
+  color: black;
+  /* font-weight: 700;
+  font-size: 26px; */
+}
+
+.nav-item a {
+  font-weight: 500;
+  color: gray;
+}
+
+.nav-item a:hover {
+  color: rgb(255, 68, 0);
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+/* -------------------------- */
